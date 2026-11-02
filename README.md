@@ -3,6 +3,38 @@
        width="100%" alt="Neenu Vinod Beenakumari">
 </p>
 
+
+<p>
+  <img src="https://img.shields.io/badge/ABOUT-00C9C8?style=for-the-badge&labelColor=062B40">
+</p>
+<hr color="#00C9C8">
+
+<p>
+  <img src="https://img.shields.io/badge/PROFESSIONAL_EXPERIENCE-00C9C8?style=for-the-badge&labelColor=062B40">
+</p>
+<hr color="#00C9C8">
+
+<p>
+  <img src="https://img.shields.io/badge/HACKATHONS_&_EVENTS-00C9C8?style=for-the-badge&labelColor=062B40">
+</p>
+<hr color="#00C9C8">
+
+<p>
+  <img src="https://img.shields.io/badge/PROJECTS_&_CASE_STUDIES-00C9C8?style=for-the-badge&labelColor=062B40">
+</p>
+<hr color="#00C9C8">
+
+<p>
+  <img src="https://img.shields.io/badge/TECH_STACK_&_TOOLS-00C9C8?style=for-the-badge&labelColor=062B40">
+</p>
+<hr color="#00C9C8">
+
+<p>
+  <img src="https://img.shields.io/badge/EDUCATION-00C9C8?style=for-the-badge&labelColor=062B40">
+</p>
+<hr color="#00C9C8">
+
+
 <p>
   <img src="https://img.shields.io/badge/ABOUT-00C9C8?style=for-the-badge&labelColor=062B40">
 </p>
