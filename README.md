@@ -12,8 +12,6 @@
 
 <img src="./experience.svg" width="100%" alt="Professional Experience Timeline"/>
 
-<h2>HACKATHONS & EVENTS</h2>
-
 <img src="./hackathons_events_navy_teal.svg"
      width="100%"
      alt="Hackathons and Events"/>
