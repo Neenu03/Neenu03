@@ -18,6 +18,9 @@
 
 <img src="./experience.svg" width="100%" alt="Professional Experience Timeline"/>
 
+
+
+
 <p>
   <img src="https://img.shields.io/badge/PROFESSIONAL_EXPERIENCE-062B40?style=flat-square&labelColor=00C9C8"/>
 </p>
