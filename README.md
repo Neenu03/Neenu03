@@ -52,7 +52,59 @@ With an academic background in Mathematics and Statistics and practical experien
 
 Explore my work in data analysis, machine learning, forecasting and visualization.
 
-<p>
+<h2>HACKATHONS & EVENTS</h2>
+
+<table width="100%" cellspacing="10">
+<tr>
+<td width="50%" bgcolor="#E1F7F5">
+
+**JUN 2026**
+
+### TUM Science Hackathon 2026
+
+Technical University of Munich
+
+Scientific innovation and problem-solving.
+
+</td>
+<td width="50%" bgcolor="#F1F7FA">
+
+**DEC 2025**
+
+### IBM Z Day 2025
+
+IBM
+
+AI, Data Analytics and Hybrid Cloud.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" bgcolor="#F1F7FA">
+
+**FEATURED PROJECT**
+
+### Supply Chain Forecasting
+
+Amer Sports
+
+Forecasting and data-driven planning.
+
+</td>
+<td width="50%" bgcolor="#E1F7F5">
+
+**TECHNICAL DEVELOPMENT**
+
+### Machine Learning & Analytics
+
+Python | Statistics | SQL
+
+Building analytical and predictive solutions.
+
+</td>
+</tr>
+</table><p>
   <img src="https://img.shields.io/badge/HACKATHONS_&_EVENTS-062B40?style=flat-square&labelColor=00C9C8"/>
 </p>
 
@@ -86,12 +138,4 @@ Explore my work in data analysis, machine learning, forecasting and visualizatio
 - LinkedIn: [Add your LinkedIn URL]
 - GitHub: [Add your GitHub URL]
 
-<p><img src="https://img.shields.io/badge/CERTIFICATIONS & ACHIEVEMENTS-00C9C8?style=for-the-badge&labelColor=062B40"></p>
-<hr>
-  
-<p><img src="https://img.shields.io/badge/GITHUB ACTIVITY-00C9C8?style=for-the-badge&labelColor=062B40"></p>
-<hr>
-
-<p><img src="https://img.shields.io/badge/LET'S CONNECT-00C9C8?style=for-the-badge&labelColor=062B40"></p>
-<hr>
 
