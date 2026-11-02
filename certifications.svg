@@ -1,0 +1,262 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1740" viewBox="0 0 1200 1740">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#F8FAFC"/>
+    <stop offset="100%" stop-color="#EDF3F7"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00AEB5"/>
+    <stop offset="100%" stop-color="#4DE1D5"/>
+  </linearGradient>
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+    <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#06243A" flood-opacity=".07"/>
+  </filter>
+  <style>
+    .heading { font:700 29px Arial,sans-serif; letter-spacing:1.5px; fill:#082B45; }
+    .sub { font:14px Arial,sans-serif; fill:#657B8B; }
+    .eyebrow { font:700 12px Arial,sans-serif; letter-spacing:1.4px; fill:#008C96; }
+    .title { font:700 18px Arial,sans-serif; fill:#082B45; }
+    .issuer { font:600 14px Arial,sans-serif; fill:#008C96; }
+    .date { font:12px Arial,sans-serif; fill:#718493; }
+    .desc { font:13px Arial,sans-serif; fill:#536575; }
+    .id { font:11px Arial,sans-serif; fill:#718493; }
+    .card { fill:#FFFFFF; stroke:#D7E2E9; stroke-width:1.2; }
+    .pill { fill:#DDF4F3; }
+    .pilltext { font:700 10px Arial,sans-serif; fill:#007C83; letter-spacing:.5px; }
+    .number { font:700 13px Arial,sans-serif; fill:#00A6AA; }
+    .footer { font:12px Arial,sans-serif; fill:#718493; letter-spacing:.5px; }
+  </style>
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="1740" fill="url(#bg)"/>
+
+<!-- Header -->
+<text x="55" y="55" class="eyebrow">PROFESSIONAL DEVELOPMENT / 03</text>
+<text x="55" y="105" class="heading">CERTIFICATIONS &amp; LEARNING</text>
+<text x="55" y="135" class="sub">Credentials, technical training and continuous professional development.</text>
+<rect x="55" y="157" width="1090" height="2" fill="#D5E1E8"/>
+<rect x="55" y="157" width="180" height="3" rx="1.5" fill="url(#accent)"/>
+
+<!-- 01 TUM -->
+<g filter="url(#shadow)">
+<rect x="55" y="185" width="530" height="145" rx="13" class="card"/>
+<rect x="55" y="185" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="80" y="211" class="number">01</text>
+<rect x="455" y="196" width="105" height="23" rx="11" class="pill"/>
+<text x="507" y="212" text-anchor="middle" class="pilltext">JUN 2026</text>
+<text x="80" y="247" class="title">TUM Science Hackathon 2026</text>
+<text x="80" y="272" class="issuer">Technical University of Munich</text>
+<text x="80" y="300" class="desc">Completed an intensive innovation and scientific problem-solving hackathon.</text>
+</g>
+
+<!-- 02 IBM -->
+<g filter="url(#shadow)">
+<rect x="615" y="185" width="530" height="145" rx="13" class="card"/>
+<rect x="615" y="185" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="640" y="211" class="number">02</text>
+<rect x="1015" y="196" width="105" height="23" rx="11" class="pill"/>
+<text x="1067" y="212" text-anchor="middle" class="pilltext">DEC 2025</text>
+<text x="640" y="247" class="title">IBM Z Day 2025 – AI and Data</text>
+<text x="640" y="272" class="issuer">IBM</text>
+<text x="640" y="300" class="desc">Enterprise AI, analytics and hybrid cloud technologies.</text>
+</g>
+
+<!-- 03 R Programming -->
+<g filter="url(#shadow)">
+<rect x="55" y="350" width="530" height="145" rx="13" class="card"/>
+<rect x="55" y="350" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="80" y="376" class="number">03</text>
+<rect x="455" y="361" width="105" height="23" rx="11" class="pill"/>
+<text x="507" y="377" text-anchor="middle" class="pilltext">SEP 2024</text>
+<text x="80" y="412" class="title">R Programming</text>
+<text x="80" y="437" class="issuer">Universität Passau</text>
+<text x="80" y="465" class="desc">Computational Statistics and Regression in R.</text>
+</g>
+
+<!-- 04 Accenture -->
+<g filter="url(#shadow)">
+<rect x="615" y="350" width="530" height="145" rx="13" class="card"/>
+<rect x="615" y="350" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="640" y="376" class="number">04</text>
+<rect x="1015" y="361" width="105" height="23" rx="11" class="pill"/>
+<text x="1067" y="377" text-anchor="middle" class="pilltext">FEB 2024</text>
+<text x="640" y="412" class="title">Virtual Internship for Data Analysis</text>
+<text x="640" y="437" class="issuer">Accenture</text>
+<text x="640" y="465" class="desc">Data analysis simulation · Project understanding · Data cleaning.</text>
+</g>
+
+<!-- 05 BCG -->
+<g filter="url(#shadow)">
+<rect x="55" y="515" width="530" height="145" rx="13" class="card"/>
+<rect x="55" y="515" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="80" y="541" class="number">05</text>
+<rect x="455" y="526" width="105" height="23" rx="11" class="pill"/>
+<text x="507" y="542" text-anchor="middle" class="pilltext">MAR 2024</text>
+<text x="80" y="577" class="title">Virtual Internship on Data Science</text>
+<text x="80" y="602" class="issuer">BCG X</text>
+<text x="80" y="630" class="desc">Customer churn analysis simulation · Python · Data visualization.</text>
+</g>
+
+<!-- 06 Data Visualization -->
+<g filter="url(#shadow)">
+<rect x="615" y="515" width="530" height="145" rx="13" class="card"/>
+<rect x="615" y="515" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="640" y="541" class="number">06</text>
+<rect x="1015" y="526" width="105" height="23" rx="11" class="pill"/>
+<text x="1067" y="542" text-anchor="middle" class="pilltext">MAR 2024</text>
+<text x="640" y="577" class="title">Data Visualization</text>
+<text x="640" y="602" class="issuer">Kaggle</text>
+<text x="640" y="630" class="desc">Data visualization using Matplotlib and Seaborn.</text>
+</g>
+
+<!-- 07 Intermediate ML -->
+<g filter="url(#shadow)">
+<rect x="55" y="680" width="530" height="145" rx="13" class="card"/>
+<rect x="55" y="680" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="80" y="706" class="number">07</text>
+<rect x="455" y="691" width="105" height="23" rx="11" class="pill"/>
+<text x="507" y="707" text-anchor="middle" class="pilltext">MAR 2024</text>
+<text x="80" y="742" class="title">Intermediate Machine Learning</text>
+<text x="80" y="767" class="issuer">Kaggle</text>
+<text x="80" y="795" class="desc">Machine learning concepts and practical techniques.</text>
+</g>
+
+<!-- 08 SQL -->
+<g filter="url(#shadow)">
+<rect x="615" y="680" width="530" height="145" rx="13" class="card"/>
+<rect x="615" y="680" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="640" y="706" class="number">08</text>
+<rect x="1015" y="691" width="105" height="23" rx="11" class="pill"/>
+<text x="1067" y="707" text-anchor="middle" class="pilltext">FEB 2024</text>
+<text x="640" y="742" class="title">Introduction to SQL</text>
+<text x="640" y="767" class="issuer">Kaggle</text>
+<text x="640" y="795" class="desc">SQL fundamentals.</text>
+</g>
+
+<!-- 09 Pandas -->
+<g filter="url(#shadow)">
+<rect x="55" y="845" width="530" height="145" rx="13" class="card"/>
+<rect x="55" y="845" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="80" y="871" class="number">09</text>
+<rect x="455" y="856" width="105" height="23" rx="11" class="pill"/>
+<text x="507" y="872" text-anchor="middle" class="pilltext">FEB 2024</text>
+<text x="80" y="907" class="title">Pandas</text>
+<text x="80" y="932" class="issuer">Kaggle</text>
+<text x="80" y="960" class="desc">Data manipulation and analysis with Pandas.</text>
+</g>
+
+<!-- 10 Python Kaggle -->
+<g filter="url(#shadow)">
+<rect x="615" y="845" width="530" height="145" rx="13" class="card"/>
+<rect x="615" y="845" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="640" y="871" class="number">10</text>
+<rect x="1015" y="856" width="105" height="23" rx="11" class="pill"/>
+<text x="1067" y="872" text-anchor="middle" class="pilltext">FEB 2024</text>
+<text x="640" y="907" class="title">Python</text>
+<text x="640" y="932" class="issuer">Kaggle</text>
+<text x="640" y="960" class="desc">Python programming language fundamentals.</text>
+</g>
+
+<!-- 11 Statistics -->
+<g filter="url(#shadow)">
+<rect x="55" y="1010" width="530" height="145" rx="13" class="card"/>
+<rect x="55" y="1010" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="80" y="1036" class="number">11</text>
+<rect x="455" y="1021" width="105" height="23" rx="11" class="pill"/>
+<text x="507" y="1037" text-anchor="middle" class="pilltext">OCT 2023</text>
+<text x="80" y="1072" class="title">Statistics for Data Science with Python</text>
+<text x="80" y="1097" class="issuer">Coursera</text>
+<text x="80" y="1125" class="desc">Statistics, probability and statistical hypothesis testing.</text>
+</g>
+
+<!-- 12 Data Analysis -->
+<g filter="url(#shadow)">
+<rect x="615" y="1010" width="530" height="145" rx="13" class="card"/>
+<rect x="615" y="1010" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="640" y="1036" class="number">12</text>
+<rect x="1015" y="1021" width="105" height="23" rx="11" class="pill"/>
+<text x="1067" y="1037" text-anchor="middle" class="pilltext">OCT 2023</text>
+<text x="640" y="1072" class="title">Data Analysis with Python</text>
+<text x="640" y="1097" class="issuer">Coursera</text>
+<text x="640" y="1125" class="desc">Python-based data analysis · Credential ID: C4ARTR6XFTA9</text>
+</g>
+
+<!-- 13 Python for DS -->
+<g filter="url(#shadow)">
+<rect x="55" y="1175" width="530" height="145" rx="13" class="card"/>
+<rect x="55" y="1175" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="80" y="1201" class="number">13</text>
+<rect x="455" y="1186" width="105" height="23" rx="11" class="pill"/>
+<text x="507" y="1202" text-anchor="middle" class="pilltext">OCT 2023</text>
+<text x="80" y="1237" class="title">Python for Data Science, AI and Development</text>
+<text x="80" y="1262" class="issuer">Coursera</text>
+<text x="80" y="1290" class="desc">Python, NumPy and foundations of data science.</text>
+</g>
+
+<!-- 14 Vue -->
+<g filter="url(#shadow)">
+<rect x="615" y="1175" width="530" height="145" rx="13" class="card"/>
+<rect x="615" y="1175" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="640" y="1201" class="number">14</text>
+<rect x="1015" y="1186" width="105" height="23" rx="11" class="pill"/>
+<text x="1067" y="1202" text-anchor="middle" class="pilltext">OCT 2023</text>
+<text x="640" y="1237" class="title">Introduction to VueJS Framework</text>
+<text x="640" y="1262" class="issuer">Coursera</text>
+<text x="640" y="1290" class="id">Credential ID: CRRAGKMXYW7A</text>
+</g>
+
+<!-- 15 React -->
+<g filter="url(#shadow)">
+<rect x="55" y="1340" width="530" height="145" rx="13" class="card"/>
+<rect x="55" y="1340" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="80" y="1366" class="number">15</text>
+<rect x="455" y="1351" width="105" height="23" rx="11" class="pill"/>
+<text x="507" y="1367" text-anchor="middle" class="pilltext">OCT 2023</text>
+<text x="80" y="1402" class="title">React Basics</text>
+<text x="80" y="1427" class="issuer">Coursera</text>
+<text x="80" y="1455" class="id">Credential ID: MXY9SFQ2RBVQ</text>
+</g>
+
+<!-- 16 Angular -->
+<g filter="url(#shadow)">
+<rect x="615" y="1340" width="530" height="145" rx="13" class="card"/>
+<rect x="615" y="1340" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="640" y="1366" class="number">16</text>
+<rect x="1015" y="1351" width="105" height="23" rx="11" class="pill"/>
+<text x="1067" y="1367" text-anchor="middle" class="pilltext">COURSERA</text>
+<text x="640" y="1402" class="title">Angular for Front End Engineers</text>
+<text x="640" y="1427" class="issuer">Coursera</text>
+<text x="640" y="1455" class="id">Credential ID: NSAR2WYK97VJ</text>
+</g>
+
+<!-- 17 HTML CSS JS -->
+<g filter="url(#shadow)">
+<rect x="55" y="1505" width="530" height="145" rx="13" class="card"/>
+<rect x="55" y="1505" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="80" y="1531" class="number">17</text>
+<rect x="435" y="1516" width="125" height="23" rx="11" fill="#FCE9E7"/>
+<text x="497" y="1532" text-anchor="middle" style="font:700 10px Arial;fill:#A34B40">EXPIRED AUG 2023</text>
+<text x="80" y="1567" class="title">HTML, CSS and JavaScript for Web Developers</text>
+<text x="80" y="1592" class="issuer">Coursera · Issued Jul 2023</text>
+<text x="80" y="1620" class="id">Credential ID: ZG6RMS9NXVVC</text>
+</g>
+
+<!-- 18 Udemy -->
+<g filter="url(#shadow)">
+<rect x="615" y="1505" width="530" height="145" rx="13" class="card"/>
+<rect x="615" y="1505" width="5" height="145" rx="2" fill="#00BFC4"/>
+<text x="640" y="1531" class="number">18</text>
+<rect x="1015" y="1516" width="105" height="23" rx="11" class="pill"/>
+<text x="1067" y="1532" text-anchor="middle" class="pilltext">JUN 2022</text>
+<text x="640" y="1567" class="title">Python Complete Course for Python Beginners</text>
+<text x="640" y="1592" class="issuer">Udemy</text>
+<text x="640" y="1620" class="desc">Python programming fundamentals.</text>
+</g>
+
+<!-- Footer -->
+<rect x="55" y="1680" width="1090" height="1" fill="#D5E1E8"/>
+<text x="55" y="1710" class="footer">DATA SCIENCE · PROGRAMMING · ANALYTICS · PROFESSIONAL LEARNING</text>
+<text x="1145" y="1710" text-anchor="end" class="eyebrow">NEENU / PORTFOLIO</text>
+</svg>
