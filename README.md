@@ -29,16 +29,11 @@
 </section>
 
 
-<p>
-  <img src="https://img.shields.io/badge/TECHNICAL_SKILLS-062B40?style=flat-square&labelColor=00C9C8"/>
-</p>
-
-- **Programming:** Python, R, SQL
-- **Data Analysis:** Pandas, NumPy, Excel
-- **Visualization:** Power BI, Tableau, Matplotlib
-- **Machine Learning:** Scikit-learn, PyTorch
-- **Mathematics:** Statistics, Probability, Predictive Modelling
-- **Other:** HTML, CSS, JavaScript, Git, GitHub
+<section id="skills">
+  <img src="skills.svg"
+       alt="Technical Skills and Tools"
+       style="width:100%; height:auto;">
+</section>
 
 <p>
   <img src="https://img.shields.io/badge/PROJECTS_&_CASE_STUDIES-062B40?style=flat-square&labelColor=00C9C8"/>
