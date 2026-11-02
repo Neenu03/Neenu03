@@ -1,70 +1,81 @@
 
-
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="770" viewBox="0 0 1200 770">
 <defs>
   <filter id="shadow" x="-15%" y="-15%" width="130%" height="140%">
     <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#06243A" flood-opacity=".09"/>
   </filter>
   <style>
     .h { font:700 28px Arial,sans-serif; letter-spacing:1.4px; fill:#06243A; }
-    .d { font:700 12px Arial,sans-serif; letter-spacing:.7px; fill:#006F78; }
-    .t { font:700 20px Arial,sans-serif; fill:#06243A; }
     .o { font:600 14px Arial,sans-serif; fill:#008C96; }
+    .t { font:700 20px Arial,sans-serif; fill:#06243A; }
     .p { font:14px Arial,sans-serif; fill:#536575; }
     .pill { fill:#C9F1F1; }
     .pilltext { font:700 11px Arial,sans-serif; fill:#006F78; }
   </style>
 </defs>
 
-<!-- Background -->
-<rect width="1200" height="560" fill="#FFFFFF"/>
+<rect width="1200" height="770" fill="#FFFFFF"/>
 
 <!-- Header -->
 <text x="48" y="55" class="h">HACKATHONS &amp; EVENTS</text>
 <rect x="48" y="72" width="170" height="4" rx="2" fill="#00C6C7"/>
 <path d="M235 74H1152" stroke="#D8E3EA" stroke-width="2"/>
 
-<!-- Card 1: Black Forest Hackathon -->
+<!-- Card 1: Black Forest -->
 <g filter="url(#shadow)">
-  <rect x="48" y="112" width="536" height="190" rx="16" fill="#E8F8F8" stroke="#00AEB5" stroke-width="1.5"/>
+  <rect x="48" y="112" width="536" height="180" rx="16" fill="#E8F8F8" stroke="#00AEB5" stroke-width="1.5"/>
   <rect x="72" y="132" width="112" height="28" rx="14" class="pill"/>
   <text x="128" y="151" text-anchor="middle" class="pilltext">2026</text>
   <text x="74" y="202" class="t">Black Forest Hackathon</text>
   <text x="74" y="232" class="o">DRAWING2CAD · BCT Technology AG</text>
   <text x="74" y="265" class="p">Explored AI-based conversion of 2D engineering</text>
-  <text x="74" y="285" class="p">drawings into 3D CAD models.</text>
+  <text x="74" y="283" class="p">drawings into 3D CAD models.</text>
 </g>
 
-<!-- Card 2: TUM Science Hackathon -->
+<!-- Card 2: TUM -->
 <g filter="url(#shadow)">
-  <rect x="616" y="112" width="536" height="190" rx="16" fill="#F2F6FA" stroke="#CFDCE6" stroke-width="1.5"/>
+  <rect x="616" y="112" width="536" height="180" rx="16" fill="#F2F6FA" stroke="#CFDCE6" stroke-width="1.5"/>
   <rect x="640" y="132" width="112" height="28" rx="14" class="pill"/>
   <text x="696" y="151" text-anchor="middle" class="pilltext">JUN 2026</text>
   <text x="642" y="202" class="t">TUM Science Hackathon 2026</text>
   <text x="642" y="232" class="o">Die Autobahn GmbH des Bundes</text>
   <text x="642" y="265" class="p">Developed an explainable ML pipeline for traffic</text>
-  <text x="642" y="285" class="p">volume and congestion forecasting on Alpine routes.</text>
+  <text x="642" y="283" class="p">and congestion forecasting on Alpine routes.</text>
 </g>
 
-<!-- Card 3: Climate Week Hackathon -->
+<!-- Card 3: Autobahn Industrial Visit -->
 <g filter="url(#shadow)">
-  <rect x="48" y="330" width="536" height="190" rx="16" fill="#F2F6FA" stroke="#CFDCE6" stroke-width="1.5"/>
-  <rect x="72" y="350" width="112" height="28" rx="14" class="pill"/>
-  <text x="128" y="369" text-anchor="middle" class="pilltext">2026</text>
-  <text x="74" y="420" class="t">Climate Week Hackathon 2026</text>
-  <text x="74" y="450" class="o">BayWa r.e. · Wind Energy Challenge</text>
-  <text x="74" y="483" class="p">Explored wind farm outage detection and</text>
-  <text x="74" y="503" class="p">estimation of missing wind speeds and energy losses.</text>
+  <rect x="48" y="320" width="536" height="180" rx="16" fill="#F2F6FA" stroke="#CFDCE6" stroke-width="1.5"/>
+  <rect x="72" y="340" width="140" height="28" rx="14" class="pill"/>
+  <text x="142" y="359" text-anchor="middle" class="pilltext">INDUSTRY VISIT</text>
+  <text x="74" y="410" class="t">Die Autobahn Industrial Visit</text>
+  <text x="74" y="440" class="o">Traffic &amp; Operations Center (VBZ)</text>
+  <text x="74" y="473" class="p">Explored real-world traffic data collection and</text>
+  <text x="74" y="491" class="p">management and discussed our solution with experts.</text>
 </g>
 
-<!-- Card 4: IBM Z Day -->
+<!-- Card 4: Climate Week -->
 <g filter="url(#shadow)">
-  <rect x="616" y="330" width="536" height="190" rx="16" fill="#E8F8F8" stroke="#00AEB5" stroke-width="1.5"/>
-  <rect x="640" y="350" width="112" height="28" rx="14" class="pill"/>
-  <text x="696" y="369" text-anchor="middle" class="pilltext">2025</text>
-  <text x="642" y="420" class="t">IBM Z Day – AI and Data</text>
-  <text x="642" y="450" class="o">IBM</text>
-  <text x="642" y="483" class="p">Explored enterprise AI, data analytics, hybrid</text>
-  <text x="642" y="503" class="p">cloud technologies and secure data workloads.</text>
+  <rect x="616" y="320" width="536" height="180" rx="16" fill="#E8F8F8" stroke="#00AEB5" stroke-width="1.5"/>
+  <rect x="640" y="340" width="112" height="28" rx="14" class="pill"/>
+  <text x="696" y="359" text-anchor="middle" class="pilltext">2026</text>
+  <text x="642" y="410" class="t">Climate Week Hackathon 2026</text>
+  <text x="642" y="440" class="o">BayWa r.e. · Wind Energy Challenge</text>
+  <text x="642" y="473" class="p">Explored wind farm communication failures and</text>
+  <text x="642" y="491" class="p">estimation of missing wind speeds and energy losses.</text>
 </g>
+
+<!-- Card 5: IBM -->
+<g filter="url(#shadow)">
+  <rect x="48" y="528" width="1104" height="180" rx="16" fill="#F2F6FA" stroke="#CFDCE6" stroke-width="1.5"/>
+  <rect x="72" y="548" width="112" height="28" rx="14" class="pill"/>
+  <text x="128" y="567" text-anchor="middle" class="pilltext">2025</text>
+  <text x="74" y="618" class="t">IBM Z Day 2025 – AI and Data</text>
+  <text x="74" y="648" class="o">IBM</text>
+  <text x="74" y="681" class="p">Explored enterprise AI, data analytics, hybrid cloud platforms and secure, scalable data workloads.</text>
+</g>
+
+<!-- Footer -->
+<path d="M48 735H1152" stroke="#D8E3EA" stroke-width="2"/>
+<text x="48" y="755" style="font:12px Arial;fill:#7896A8">HACKATHONS · INDUSTRY EXPOSURE · INNOVATION · CONTINUOUS LEARNING</text>
 </svg>
