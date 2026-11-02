@@ -3,157 +3,64 @@
        width="100%" alt="Neenu Vinod Beenakumari">
 </p>
 
-<table>
-<tr>
-<td>
 <h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-ABOUT
-</span>
+  <img src="https://img.shields.io/badge/ABOUT-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
+
+<hr>
 
 
-<table>
-<tr>
-<td>
 <h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-PROFESSIONAL EXPERIENCE
-</span>
+  <img src="https://img.shields.io/badge/PROFESSIONAL EXPERIENCE-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
 
+<hr>
 
-<table>
-<tr>
-<td>
 <h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-HACKATHONS & EVENTS
-</span>
+  <img src="https://img.shields.io/badge/HACKATHONS & EVENTS-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
+
+<hr>
 
 
-<table>
-<tr>
-<td>
 <h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-PROJECTS & CASE STUDIES
-</span>
+  <img src="https://img.shields.io/badge/PROJECTS & CASE STUDIES-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td>
+<hr>
+
+
 <h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-TECH STACK & TOOLS
-</span>
+  <img src="https://img.shields.io/badge/TECH STACK & TOOLS-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td>
+<hr>
+
+
 <h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-TECH STACK & TOOLS
-</span>
+  <img src="https://img.shields.io/badge/EDUCATION-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
+
+<hr>
 
 
-<table>
-<tr>
-<td>
 <h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-EDUCATION
-</span>
+  <img src="https://img.shields.io/badge/CERTIFICATIONS & ACHIEVEMENTS-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td>
+<hr>
+
 <h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-CERTIFICATIONS & ACHIEVEMENTS
-</span>
+  <img src="https://img.shields.io/badge/GITHUB ACTIVITY-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
+
+<hr>
 
 
-<table>
-<tr>
-<td>
+
 <h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-GITHUB ACTIVITY
-</span>
+  <img src="https://img.shields.io/badge/LET'S CONNECT-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td>
-<h2>
-<span style="background-color:#062B40;color:#00C9C8;padding:8px 22px;border-radius:25px;">
-LET'S CONNECT
-</span>
-</h2>
-</td>
-<td width="100%">
-<hr style="border:1px solid #00C9C8;">
-</td>
-</tr>
-</table>
+<hr>
+
