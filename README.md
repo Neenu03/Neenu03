@@ -8,65 +8,27 @@
 </p>
 <hr>
 
-
-<h2>
-  <img src="https://img.shields.io/badge/ABOUT-00C9C8?style=for-the-badge&labelColor=062B40">
-</h2>
-
+<p><img src="https://img.shields.io/badge/PROFESSIONAL_EXPERIENCE-00C9C8?style=for-the-badge&labelColor=062B40"></p>
 <hr>
 
-
-<h2>
-  <img src="https://img.shields.io/badge/PROFESSIONAL EXPERIENCE-00C9C8?style=for-the-badge&labelColor=062B40">
-</h2>
-
+<p><img src="https://img.shields.io/badge/HACKATHONS_&_EVENTS-00C9C8?style=for-the-badge&labelColor=062B40"></p>
 <hr>
 
-<h2>
-  <img src="https://img.shields.io/badge/HACKATHONS & EVENTS-00C9C8?style=for-the-badge&labelColor=062B40">
-</h2>
-
+<p><img src="https://img.shields.io/badge/PROJECTS_&_CASE_STUDIES-00C9C8?style=for-the-badge&labelColor=062B40"></p>
 <hr>
 
-
-<h2>
-  <img src="https://img.shields.io/badge/PROJECTS & CASE STUDIES-00C9C8?style=for-the-badge&labelColor=062B40">
-</h2>
-
+<p><img src="https://img.shields.io/badge/TECH_STACK_&_TOOLS-00C9C8?style=for-the-badge&labelColor=062B40"></p>
 <hr>
 
-
-<h2>
-  <img src="https://img.shields.io/badge/TECH STACK & TOOLS-00C9C8?style=for-the-badge&labelColor=062B40">
-</h2>
-
+<p><img src="https://img.shields.io/badge/EDUCATION-00C9C8?style=for-the-badge&labelColor=062B40"></p>
 <hr>
 
-
-<h2>
-  <img src="https://img.shields.io/badge/EDUCATION-00C9C8?style=for-the-badge&labelColor=062B40">
-</h2>
-
+<p><img src="https://img.shields.io/badge/CERTIFICATIONS & ACHIEVEMENTS-00C9C8?style=for-the-badge&labelColor=062B40"></p>
+<hr>
+  
+<p><img src="https://img.shields.io/badge/GITHUB ACTIVITY-00C9C8?style=for-the-badge&labelColor=062B40"></p>
 <hr>
 
-
-<h2>
-  <img src="https://img.shields.io/badge/CERTIFICATIONS & ACHIEVEMENTS-00C9C8?style=for-the-badge&labelColor=062B40">
-</h2>
-
-<hr>
-
-<h2>
-  <img src="https://img.shields.io/badge/GITHUB ACTIVITY-00C9C8?style=for-the-badge&labelColor=062B40">
-</h2>
-
-<hr>
-
-
-
-<h2>
-  <img src="https://img.shields.io/badge/LET'S CONNECT-00C9C8?style=for-the-badge&labelColor=062B40">
-</h2>
-
+<p><img src="https://img.shields.io/badge/LET'S CONNECT-00C9C8?style=for-the-badge&labelColor=062B40"></p>
 <hr>
 
