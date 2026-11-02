@@ -1,131 +1,124 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1280" viewBox="0 0 1200 1280">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1320" viewBox="0 0 1200 1320">
+
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#061B2C"/>
     <stop offset="100%" stop-color="#0B2940"/>
   </linearGradient>
+
   <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#12344B"/>
     <stop offset="100%" stop-color="#091F32"/>
   </linearGradient>
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="5" result="blur"/>
-    <feMerge>
-      <feMergeNode in="blur"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
 </defs>
 
 <!-- Background -->
-<rect width="1200" height="1280" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="1320" rx="20" fill="url(#bg)"/>
 
 <!-- Heading -->
-<text x="55" y="65" font-family="Arial" font-size="34" font-weight="bold" fill="#FFFFFF">MY</text>
-<text x="115" y="65" font-family="Arial" font-size="34" font-weight="bold" fill="#00C2C7">PROJECTS</text>
-<rect x="55" y="83" width="145" height="4" rx="2" fill="#00C2C7" filter="url(#glow)"/>
-<text x="55" y="118" font-family="Arial" font-size="16" fill="#9DB8C9">Machine Learning • Data Science • Analytics • Mathematical Modelling</text>
+<text x="55" y="65" font-family="Arial" font-size="36" font-weight="bold" fill="#FFFFFF">MY</text>
+<text x="115" y="65" font-family="Arial" font-size="36" font-weight="bold" fill="#00C2C7">PROJECTS</text>
+<rect x="55" y="85" width="150" height="5" rx="2" fill="#00C2C7"/>
+<text x="55" y="125" font-family="Arial" font-size="16" fill="#A9C2D2">Machine Learning • Data Science • Analytics • Mathematical Modelling</text>
 
-<!-- PROJECT 1: TUM -->
-<rect x="55" y="155" width="525" height="195" rx="13" fill="#10394A" stroke="#00C2C7" stroke-width="2"/>
-<rect x="78" y="174" width="112" height="27" rx="13" fill="#00C2C7"/>
-<text x="96" y="192" font-family="Arial" font-size="12" font-weight="bold" fill="#062238">JUN 2026</text>
-<rect x="435" y="174" width="120" height="27" rx="13" fill="#173E50"/>
-<text x="450" y="192" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">TUM HACKATHON</text>
-<text x="78" y="232" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Alpine Traffic Forecasting</text>
-<text x="78" y="258" font-family="Arial" font-size="14" fill="#00C2C7">TUM Science Hackathon • Die Autobahn</text>
-<text x="78" y="283" font-family="Arial" font-size="13" fill="#C0D2DF">Developed ML models for traffic forecasting and congestion analysis.</text>
-<text x="78" y="305" font-family="Arial" font-size="13" fill="#C0D2DF">Collaborated in an interdisciplinary team during a 50-hour hackathon.</text>
-<text x="78" y="331" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">MACHINE LEARNING • FORECASTING • PYTHON</text>
+<!-- PROJECT 1 -->
+<rect x="55" y="160" width="525" height="195" rx="15" fill="#10394A" stroke="#00C2C7" stroke-width="2"/>
+<rect x="78" y="180" width="115" height="28" rx="14" fill="#00C2C7"/>
+<text x="94" y="199" font-family="Arial" font-size="12" font-weight="bold" fill="#062238">JUN 2026</text>
+<text x="78" y="245" font-family="Arial" font-size="20" font-weight="bold" fill="#FFFFFF">Alpine Traffic Forecasting</text>
+<text x="78" y="272" font-family="Arial" font-size="14" fill="#00C2C7">TUM Science Hackathon • Die Autobahn</text>
+<text x="78" y="300" font-family="Arial" font-size="13" fill="#C0D2DF">Developed ML models for traffic forecasting and</text>
+<text x="78" y="320" font-family="Arial" font-size="13" fill="#C0D2DF">congestion analysis during a 50-hour hackathon.</text>
+<text x="78" y="342" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">MACHINE LEARNING • FORECASTING • PYTHON</text>
 
-<!-- PROJECT 2: EVENT CAMERA -->
-<rect x="620" y="155" width="525" height="195" rx="13" fill="url(#card)" stroke="#24516A"/>
-<rect x="643" y="174" width="135" height="27" rx="13" fill="#174456"/>
-<text x="660" y="192" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">OCT 2024 – NOV 2025</text>
-<text x="643" y="232" font-family="Arial" font-size="18" font-weight="bold" fill="#FFFFFF">Enhancing Event Camera Data</text>
-<text x="643" y="258" font-family="Arial" font-size="14" fill="#00C2C7">Universität Passau</text>
-<text x="643" y="283" font-family="Arial" font-size="13" fill="#C0D2DF">Built Python pipelines converting event streams into structured images.</text>
-<text x="643" y="305" font-family="Arial" font-size="13" fill="#C0D2DF">Trained ML models and ensembles, achieving 18% lower RMSE.</text>
-<text x="643" y="331" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">PYTHON • DEEP LEARNING • COMPUTER VISION</text>
+<!-- PROJECT 2 -->
+<rect x="620" y="160" width="525" height="195" rx="15" fill="url(#card)" stroke="#24516A" stroke-width="1.5"/>
+<rect x="643" y="180" width="150" height="28" rx="14" fill="#174456"/>
+<text x="657" y="199" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">OCT 2024 – NOV 2025</text>
+<text x="643" y="245" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Enhancing Event Camera Data</text>
+<text x="643" y="272" font-family="Arial" font-size="14" fill="#00C2C7">Universität Passau</text>
+<text x="643" y="300" font-family="Arial" font-size="13" fill="#C0D2DF">Built Python pipelines to transform event streams</text>
+<text x="643" y="320" font-family="Arial" font-size="13" fill="#C0D2DF">into structured images. Achieved 18% lower RMSE.</text>
+<text x="643" y="342" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">PYTHON • DEEP LEARNING • COMPUTER VISION</text>
 
-<!-- PROJECT 3: ADIDAS -->
-<rect x="55" y="375" width="525" height="195" rx="13" fill="url(#card)" stroke="#24516A"/>
-<rect x="78" y="394" width="115" height="27" rx="13" fill="#174456"/>
-<text x="95" y="412" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">AUG 2025</text>
-<rect x="430" y="394" width="125" height="27" rx="13" fill="#174456"/>
-<text x="446" y="412" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">92% ACCURACY</text>
-<text x="78" y="452" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Adidas Sales Forecasting</text>
-<text x="78" y="478" font-family="Arial" font-size="14" fill="#00C2C7">Regional Sales & Demand Prediction</text>
-<text x="78" y="503" font-family="Arial" font-size="13" fill="#C0D2DF">Applied EDA, feature engineering and model tuning to sales data.</text>
-<text x="78" y="525" font-family="Arial" font-size="13" fill="#C0D2DF">Built predictive models and Power BI dashboards for inventory planning.</text>
-<text x="78" y="551" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">PYTHON • XGBOOST • RANDOM FOREST • POWER BI</text>
+<!-- PROJECT 3 -->
+<rect x="55" y="385" width="525" height="195" rx="15" fill="url(#card)" stroke="#24516A" stroke-width="1.5"/>
+<rect x="78" y="405" width="115" height="28" rx="14" fill="#174456"/>
+<text x="94" y="424" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">AUG 2025</text>
+<rect x="430" y="405" width="125" height="28" rx="14" fill="#174456"/>
+<text x="443" y="424" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">92% ACCURACY</text>
+<text x="78" y="470" font-family="Arial" font-size="20" font-weight="bold" fill="#FFFFFF">Adidas Sales Forecasting</text>
+<text x="78" y="497" font-family="Arial" font-size="14" fill="#00C2C7">Regional Sales &amp; Demand Prediction</text>
+<text x="78" y="525" font-family="Arial" font-size="13" fill="#C0D2DF">Applied EDA, feature engineering and model tuning.</text>
+<text x="78" y="545" font-family="Arial" font-size="13" fill="#C0D2DF">Created Power BI dashboards for inventory planning.</text>
+<text x="78" y="567" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">PYTHON • XGBOOST • RANDOM FOREST • POWER BI</text>
 
-<!-- PROJECT 4: SQL -->
-<rect x="620" y="375" width="525" height="195" rx="13" fill="url(#card)" stroke="#24516A"/>
-<rect x="643" y="394" width="105" height="27" rx="13" fill="#174456"/>
-<text x="660" y="412" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">2025</text>
-<text x="643" y="452" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Warehouse SQL Project</text>
-<text x="643" y="478" font-family="Arial" font-size="14" fill="#00C2C7">Customer & Sales Analytics</text>
-<text x="643" y="503" font-family="Arial" font-size="13" fill="#C0D2DF">Analyzed purchasing behaviour using complex SQL queries.</text>
-<text x="643" y="525" font-family="Arial" font-size="13" fill="#C0D2DF">Used CTEs, joins and window functions; created Excel dashboards.</text>
-<text x="643" y="551" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">SQL • EXCEL • DATA ANALYSIS</text>
+<!-- PROJECT 4 -->
+<rect x="620" y="385" width="525" height="195" rx="15" fill="#10394A" stroke="#00C2C7" stroke-width="1.5"/>
+<rect x="643" y="405" width="105" height="28" rx="14" fill="#00C2C7"/>
+<text x="661" y="424" font-family="Arial" font-size="12" font-weight="bold" fill="#062238">2025</text>
+<text x="643" y="470" font-family="Arial" font-size="20" font-weight="bold" fill="#FFFFFF">Warehouse SQL Project</text>
+<text x="643" y="497" font-family="Arial" font-size="14" fill="#00C2C7">Customer &amp; Sales Analytics</text>
+<text x="643" y="525" font-family="Arial" font-size="13" fill="#C0D2DF">Analyzed purchasing behaviour using complex SQL.</text>
+<text x="643" y="545" font-family="Arial" font-size="13" fill="#C0D2DF">Used CTEs, joins and window functions.</text>
+<text x="643" y="567" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">SQL • EXCEL • DATA ANALYSIS</text>
 
-<!-- PROJECT 5: ENERGY -->
-<rect x="55" y="595" width="525" height="195" rx="13" fill="url(#card)" stroke="#24516A"/>
-<rect x="78" y="614" width="135" height="27" rx="13" fill="#174456"/>
-<text x="95" y="632" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">AUG – SEP 2024</text>
-<text x="78" y="672" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Energy Consumption Analysis</text>
-<text x="78" y="698" font-family="Arial" font-size="14" fill="#00C2C7">Energy Data & Interactive Dashboard</text>
-<text x="78" y="723" font-family="Arial" font-size="13" fill="#C0D2DF">Analyzed household and industrial energy datasets using Python and SQL.</text>
-<text x="78" y="745" font-family="Arial" font-size="13" fill="#C0D2DF">Visualized consumption patterns and peak usage periods.</text>
-<text x="78" y="771" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">PYTHON • PANDAS • NUMPY • SQL</text>
+<!-- PROJECT 5 -->
+<rect x="55" y="610" width="525" height="195" rx="15" fill="#10394A" stroke="#00C2C7" stroke-width="1.5"/>
+<rect x="78" y="630" width="145" height="28" rx="14" fill="#00C2C7"/>
+<text x="91" y="649" font-family="Arial" font-size="12" font-weight="bold" fill="#062238">AUG – SEP 2024</text>
+<text x="78" y="695" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Energy Consumption Analysis</text>
+<text x="78" y="722" font-family="Arial" font-size="14" fill="#00C2C7">Energy Data &amp; Interactive Dashboard</text>
+<text x="78" y="750" font-family="Arial" font-size="13" fill="#C0D2DF">Analyzed household and industrial energy datasets.</text>
+<text x="78" y="770" font-family="Arial" font-size="13" fill="#C0D2DF">Visualized usage patterns and peak consumption.</text>
+<text x="78" y="792" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">PYTHON • PANDAS • NUMPY • SQL</text>
 
-<!-- PROJECT 6: SENTIMENT -->
-<rect x="620" y="595" width="525" height="195" rx="13" fill="url(#card)" stroke="#24516A"/>
-<rect x="643" y="614" width="135" height="27" rx="13" fill="#174456"/>
-<text x="660" y="632" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">AUG – SEP 2024</text>
-<rect x="1000" y="614" width="120" height="27" rx="13" fill="#174456"/>
-<text x="1018" y="632" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">92% ACCURACY</text>
-<text x="643" y="672" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Customer Review Sentiment Analysis</text>
-<text x="643" y="698" font-family="Arial" font-size="14" fill="#00C2C7">Natural Language Processing</text>
-<text x="643" y="723" font-family="Arial" font-size="13" fill="#C0D2DF">Processed 5,000+ customer reviews using NLP techniques.</text>
-<text x="643" y="745" font-family="Arial" font-size="13" fill="#C0D2DF">Classified positive, neutral and negative customer sentiments.</text>
-<text x="643" y="771" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">PYTHON • NLP • MACHINE LEARNING</text>
+<!-- PROJECT 6 -->
+<rect x="620" y="610" width="525" height="195" rx="15" fill="url(#card)" stroke="#24516A" stroke-width="1.5"/>
+<rect x="643" y="630" width="145" height="28" rx="14" fill="#174456"/>
+<text x="657" y="649" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">AUG – SEP 2024</text>
+<rect x="1000" y="630" width="120" height="28" rx="14" fill="#174456"/>
+<text x="1012" y="649" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">92% ACCURACY</text>
+<text x="643" y="695" font-family="Arial" font-size="18" font-weight="bold" fill="#FFFFFF">Customer Review Sentiment Analysis</text>
+<text x="643" y="722" font-family="Arial" font-size="14" fill="#00C2C7">Natural Language Processing</text>
+<text x="643" y="750" font-family="Arial" font-size="13" fill="#C0D2DF">Processed 5,000+ customer reviews using NLP.</text>
+<text x="643" y="770" font-family="Arial" font-size="13" fill="#C0D2DF">Classified positive, neutral and negative sentiments.</text>
+<text x="643" y="792" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">PYTHON • NLP • MACHINE LEARNING</text>
 
-<!-- PROJECT 7: WAREHOUSE -->
-<rect x="55" y="815" width="525" height="195" rx="13" fill="url(#card)" stroke="#24516A"/>
-<rect x="78" y="834" width="135" height="27" rx="13" fill="#174456"/>
-<text x="95" y="852" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">MAR – JUL 2024</text>
-<text x="78" y="892" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Warehouse Management Analysis</text>
-<text x="78" y="918" font-family="Arial" font-size="14" fill="#00C2C7">Inventory & Shoe Demand Analysis</text>
-<text x="78" y="943" font-family="Arial" font-size="13" fill="#C0D2DF">Analyzed warehouse data to identify shoe demand patterns.</text>
-<text x="78" y="965" font-family="Arial" font-size="13" fill="#C0D2DF">Examined monthly trends and size variations for stock optimization.</text>
-<text x="78" y="991" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">PYTHON • PANDAS • MATPLOTLIB • SEABORN</text>
+<!-- PROJECT 7 -->
+<rect x="55" y="835" width="525" height="195" rx="15" fill="url(#card)" stroke="#24516A" stroke-width="1.5"/>
+<rect x="78" y="855" width="145" height="28" rx="14" fill="#174456"/>
+<text x="91" y="874" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">MAR – JUL 2024</text>
+<text x="78" y="920" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Warehouse Management Analysis</text>
+<text x="78" y="947" font-family="Arial" font-size="14" fill="#00C2C7">Inventory &amp; Shoe Demand Analysis</text>
+<text x="78" y="975" font-family="Arial" font-size="13" fill="#C0D2DF">Identified shoe demand patterns from warehouse data.</text>
+<text x="78" y="995" font-family="Arial" font-size="13" fill="#C0D2DF">Analyzed monthly trends for stock optimization.</text>
+<text x="78" y="1017" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">PYTHON • PANDAS • MATPLOTLIB • SEABORN</text>
 
-<!-- PROJECT 8: HOUSE -->
-<rect x="620" y="815" width="525" height="195" rx="13" fill="url(#card)" stroke="#24516A"/>
-<rect x="643" y="834" width="135" height="27" rx="13" fill="#174456"/>
-<text x="660" y="852" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">DEC 2023 – JAN 2024</text>
-<text x="643" y="892" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Predicting House Prices</text>
-<text x="643" y="918" font-family="Arial" font-size="14" fill="#00C2C7">Regression & Predictive Modelling</text>
-<text x="643" y="943" font-family="Arial" font-size="13" fill="#C0D2DF">Built regression models using property features and location data.</text>
-<text x="643" y="965" font-family="Arial" font-size="13" fill="#C0D2DF">Applied cross-validation and hyperparameter tuning.</text>
-<text x="643" y="991" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">PYTHON • REGRESSION • RANDOM FOREST • SVM</text>
+<!-- PROJECT 8 -->
+<rect x="620" y="835" width="525" height="195" rx="15" fill="#10394A" stroke="#00C2C7" stroke-width="1.5"/>
+<rect x="643" y="855" width="150" height="28" rx="14" fill="#00C2C7"/>
+<text x="656" y="874" font-family="Arial" font-size="12" font-weight="bold" fill="#062238">DEC 2023 – JAN 2024</text>
+<text x="643" y="920" font-family="Arial" font-size="20" font-weight="bold" fill="#FFFFFF">Predicting House Prices</text>
+<text x="643" y="947" font-family="Arial" font-size="14" fill="#00C2C7">Regression &amp; Predictive Modelling</text>
+<text x="643" y="975" font-family="Arial" font-size="13" fill="#C0D2DF">Built regression models using property features.</text>
+<text x="643" y="995" font-family="Arial" font-size="13" fill="#C0D2DF">Applied cross-validation and hyperparameter tuning.</text>
+<text x="643" y="1017" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">PYTHON • REGRESSION • RANDOM FOREST • SVM</text>
 
-<!-- PROJECT 9: MATHEMATICS -->
-<rect x="55" y="1035" width="525" height="195" rx="13" fill="url(#card)" stroke="#24516A"/>
-<rect x="78" y="1054" width="135" height="27" rx="13" fill="#174456"/>
-<text x="95" y="1072" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">DEC 2018 – MAY 2019</text>
-<text x="78" y="1112" font-family="Arial" font-size="19" font-weight="bold" fill="#FFFFFF">Solutions of Transcendental Equations</text>
-<text x="78" y="1138" font-family="Arial" font-size="14" fill="#00C2C7">University of Kerala</text>
-<text x="78" y="1163" font-family="Arial" font-size="13" fill="#C0D2DF">Researched two major approaches involving five sub-methods.</text>
-<text x="78" y="1185" font-family="Arial" font-size="13" fill="#C0D2DF">Applied numerical and algebraic methods to complex equations.</text>
-<text x="78" y="1211" font-family="Arial" font-size="12" font-weight="bold" fill="#00C2C7">MATHEMATICS • NUMERICAL METHODS • ANALYSIS</text>
+<!-- PROJECT 9 -->
+<rect x="55" y="1060" width="525" height="195" rx="15" fill="#10394A" stroke="#00C2C7" stroke-width="1.5"/>
+<rect x="78" y="1080" width="150" height="28" rx="14" fill="#00C2C7"/>
+<text x="91" y="1099" font-family="Arial" font-size="12" font-weight="bold" fill="#062238">DEC 2018 – MAY 2019</text>
+<text x="78" y="1145" font-family="Arial" font-size="18" font-weight="bold" fill="#FFFFFF">Transcendental Equations</text>
+<text x="78" y="1172" font-family="Arial" font-size="14" fill="#00C2C7">University of Kerala</text>
+<text x="78" y="1200" font-family="Arial" font-size="13" fill="#C0D2DF">Researched two approaches involving five sub-methods.</text>
+<text x="78" y="1220" font-family="Arial" font-size="13" fill="#C0D2DF">Applied numerical and algebraic methods.</text>
+<text x="78" y="1242" font-family="Arial" font-size="11" font-weight="bold" fill="#00C2C7">MATHEMATICS • NUMERICAL METHODS • ANALYSIS</text>
 
 <!-- Footer -->
-<text x="620" y="1170" font-family="Arial" font-size="18" font-weight="bold" fill="#FFFFFF">BUILDING DATA-DRIVEN SOLUTIONS</text>
-<rect x="620" y="1184" width="230" height="3" rx="2" fill="#00C2C7"/>
-<text x="620" y="1211" font-family="Arial" font-size="13" fill="#8FAFC1">DATA SCIENCE • MACHINE LEARNING • ANALYTICS</text>
+<text x="620" y="1150" font-family="Arial" font-size="20" font-weight="bold" fill="#FFFFFF">BUILDING DATA-DRIVEN SOLUTIONS</text>
+<rect x="620" y="1165" width="230" height="4" rx="2" fill="#00C2C7"/>
+<text x="620" y="1195" font-family="Arial" font-size="13" fill="#9DB8C9">DATA SCIENCE • MACHINE LEARNING • ANALYTICS</text>
 
 </svg>
