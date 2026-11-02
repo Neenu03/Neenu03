@@ -1,3 +1,4 @@
-<div align="center">
-  <img src="Neon Data Science Supply Chain Banner.png" width="100%" alt="Neenu Vinod Beenakumari - Junior Data Scientist">
-</div>
+<p align="center">
+  <img src="neenu-data-science-animated-banner.gif"
+       width="100%" alt="Neenu Vinod Beenakumari">
+</p>
