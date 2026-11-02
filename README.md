@@ -16,14 +16,7 @@
 
 <img src="./about.svg" width="100%" alt="About Me"/>
 
-
-<p>
-  <img src="https://img.shields.io/badge/ABOUT-062B40?style=flat-square&labelColor=00C9C8"/>
-</p>
-
-Junior Data Scientist at Amer Sports, working at the intersection of data science, forecasting and supply chain analytics. I enjoy transforming complex data into actionable insights that support business planning and decision-making.
-
-With an academic background in Mathematics and Statistics and practical experience in data analytics, machine learning and business intelligence, I bring an analytical approach to solving real-world problems.
+<img src="./experience.svg" width="100%" alt="Professional Experience Timeline"/>
 
 <p>
   <img src="https://img.shields.io/badge/PROFESSIONAL_EXPERIENCE-062B40?style=flat-square&labelColor=00C9C8"/>
