@@ -1,0 +1,106 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="900" viewBox="0 0 1200 900">
+
+  <rect width="1200" height="900" rx="20" fill="#061827"/>
+
+  <rect x="0" y="0" width="9" height="900" fill="#00C9C8"/>
+
+  <text x="55" y="75" font-family="Arial"
+        font-size="36" font-weight="bold"
+        fill="#EAF6FF">TECH STACK &amp; TOOLS</text>
+
+  <rect x="55" y="95" width="145" height="5"
+        rx="2" fill="#00C9C8"/>
+
+  <g font-family="Arial">
+
+    <!-- Programming -->
+    <rect x="55" y="135" width="525" height="155"
+          rx="14" fill="#0B263B" stroke="#16445B"/>
+    <text x="80" y="175" font-size="23"
+          font-weight="bold" fill="#00C9C8">01 / PROGRAMMING</text>
+    <text x="80" y="220" font-size="19" fill="#EAF6FF">
+      Python  •  R  •  SQL  •  Git  •  GitHub
+    </text>
+    <text x="80" y="258" font-size="16" fill="#A9C2D3">
+      Programming and database technologies
+    </text>
+
+    <!-- Data Analysis -->
+    <rect x="620" y="135" width="525" height="155"
+          rx="14" fill="#0B263B" stroke="#16445B"/>
+    <text x="645" y="175" font-size="23"
+          font-weight="bold" fill="#00C9C8">02 / DATA ANALYSIS</text>
+    <text x="645" y="220" font-size="19" fill="#EAF6FF">
+      Pandas  •  NumPy  •  Excel
+    </text>
+    <text x="645" y="258" font-size="16" fill="#A9C2D3">
+      EDA • Data Cleaning • Feature Engineering
+    </text>
+
+    <!-- ML -->
+    <rect x="55" y="320" width="525" height="155"
+          rx="14" fill="#0B263B" stroke="#16445B"/>
+    <text x="80" y="360" font-size="23"
+          font-weight="bold" fill="#00C9C8">03 / MACHINE LEARNING</text>
+    <text x="80" y="405" font-size="19" fill="#EAF6FF">
+      Scikit-learn • TensorFlow • PyTorch
+    </text>
+    <text x="80" y="443" font-size="16" fill="#A9C2D3">
+      Forecasting • Regression • NLP • Classification
+    </text>
+
+    <!-- Visualization -->
+    <rect x="620" y="320" width="525" height="155"
+          rx="14" fill="#0B263B" stroke="#16445B"/>
+    <text x="645" y="360" font-size="23"
+          font-weight="bold" fill="#00C9C8">04 / VISUALIZATION</text>
+    <text x="645" y="405" font-size="19" fill="#EAF6FF">
+      Power BI • Tableau • Matplotlib
+    </text>
+    <text x="645" y="443" font-size="16" fill="#A9C2D3">
+      Seaborn • Dashboards • Data Storytelling
+    </text>
+
+    <!-- Mathematics -->
+    <rect x="55" y="505" width="525" height="155"
+          rx="14" fill="#0B263B" stroke="#16445B"/>
+    <text x="80" y="545" font-size="23"
+          font-weight="bold" fill="#00C9C8">05 / MATHEMATICS</text>
+    <text x="80" y="590" font-size="19" fill="#EAF6FF">
+      Statistics • Probability • Optimization
+    </text>
+    <text x="80" y="628" font-size="16" fill="#A9C2D3">
+      Numerical Methods • Statistical Modelling
+    </text>
+
+    <!-- Other tools -->
+    <rect x="620" y="505" width="525" height="155"
+          rx="14" fill="#0B263B" stroke="#16445B"/>
+    <text x="645" y="545" font-size="23"
+          font-weight="bold" fill="#00C9C8">06 / OTHER TOOLS</text>
+    <text x="645" y="590" font-size="19" fill="#EAF6FF">
+      MS Office • HTML • CSS • JavaScript
+    </text>
+    <text x="645" y="628" font-size="16" fill="#A9C2D3">
+      GitHub • Technical Documentation
+    </text>
+
+    <!-- Soft Skills -->
+    <rect x="55" y="690" width="1090" height="85"
+          rx="14" fill="#0B263B" stroke="#16445B"/>
+    <text x="80" y="727" font-size="22"
+          font-weight="bold" fill="#00C9C8">SOFT SKILLS</text>
+    <text x="80" y="755" font-size="17" fill="#EAF6FF">
+      Analytical Thinking • Problem Solving • Teamwork • Communication • Adaptability
+    </text>
+
+    <text x="55" y="835" font-size="18"
+          font-weight="bold" fill="#00C9C8">LANGUAGES</text>
+    <text x="200" y="835" font-size="18" fill="#EAF6FF">
+      English (C1)  •  German (B1)
+    </text>
+
+  </g>
+</svg>
