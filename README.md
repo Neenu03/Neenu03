@@ -35,6 +35,9 @@
        style="width:100%; height:auto;">
 </section>
 
+<img src="./tech-stack.svg" width="100%" alt="My Tech Stack"/>
+
+
 <p>
   <img src="https://img.shields.io/badge/PROJECTS_&_CASE_STUDIES-062B40?style=flat-square&labelColor=00C9C8"/>
 </p>
