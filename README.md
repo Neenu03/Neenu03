@@ -3,6 +3,13 @@
        width="100%" alt="Neenu Vinod Beenakumari">
 </p>
 
+<h2>HACKATHONS & EVENTS</h2>
+
+<img src="./hackathons_events_navy_teal.svg"
+     width="100%"
+     alt="Hackathons and Events"/>
+
+     
 # 👋 Hi, I'm Neenu Vinod Beenakumari
 
 **Junior Data Scientist | Amer Sports | Forecasting | Supply Chain Analytics**
