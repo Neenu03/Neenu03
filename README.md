@@ -3,6 +3,12 @@
        width="100%" alt="Neenu Vinod Beenakumari">
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/ABOUT-00C9C8?style=for-the-badge&labelColor=062B40">
+</p>
+<hr>
+
+
 <h2>
   <img src="https://img.shields.io/badge/ABOUT-00C9C8?style=for-the-badge&labelColor=062B40">
 </h2>
