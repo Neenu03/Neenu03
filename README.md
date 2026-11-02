@@ -22,7 +22,11 @@
   <img src="https://img.shields.io/badge/PROFESSIONAL_EXPERIENCE-062B40?style=flat-square&labelColor=00C9C8"/>
 </p>
 
-<img src="proj.svg" alt="Featured Projects">
+<section id="projects">
+  <img src="projects.svg"
+       alt="My Data Science Projects"
+       style="width:100%; height:auto; display:block;">
+</section>
 
 
 <p>
