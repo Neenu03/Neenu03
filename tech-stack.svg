@@ -1,0 +1,131 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="790" viewBox="0 0 1200 790">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071827"/>
+      <stop offset="100%" stop-color="#0B2940"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00C2C7"/>
+      <stop offset="100%" stop-color="#4DE1D5"/>
+    </linearGradient>
+    <style>
+      .heading { font: 700 29px Arial, sans-serif; fill: #F1F7FA; letter-spacing: 2px; }
+      .subheading { font: 14px Arial, sans-serif; fill: #91AFC0; }
+      .card-title { font: 700 18px Arial, sans-serif; fill: #EAF5F8; }
+      .number { font: 700 12px Arial, sans-serif; fill: #00D0CE; letter-spacing: 1px; }
+      .skill { font: 14px Arial, sans-serif; fill: #C6D9E3; }
+      .muted { font: 12px Arial, sans-serif; fill: #7896A8; }
+      .pill { fill: #12394D; stroke: #1D5365; stroke-width: 1; }
+      .pill-text { font: 13px Arial, sans-serif; fill: #D8F3F2; }
+      .card { fill: #0D263A; stroke: #1B465A; stroke-width: 1.2; }
+      .dot { fill: #00C9C8; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="790" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="75" r="115" fill="#00C2C7" opacity=".045"/>
+  <circle cx="1100" cy="80" r="72" fill="none" stroke="#00C2C7" opacity=".12"/>
+
+  <!-- Header -->
+  <text x="55" y="65" class="number">MY TOOLKIT / 01</text>
+  <text x="55" y="108" class="heading">TECH STACK &amp; TOOLS</text>
+  <text x="55" y="137" class="subheading">Technologies I use to explore data, build models and create insights.</text>
+  <rect x="55" y="157" width="1090" height="2" rx="1" fill="#1C465A"/>
+  <rect x="55" y="157" width="125" height="2" rx="1" fill="url(#accent)"/>
+
+  <!-- Card 1: Programming -->
+  <rect x="55" y="190" width="345" height="235" rx="17" class="card"/>
+  <text x="80" y="222" class="number">01 / CODE</text>
+  <text x="80" y="253" class="card-title">Programming Languages</text>
+  <circle cx="355" cy="218" r="5" class="dot"/>
+  <rect x="80" y="275" width="135" height="37" rx="9" class="pill"/>
+  <text x="97" y="299" class="pill-text">Python</text>
+  <rect x="225" y="275" width="135" height="37" rx="9" class="pill"/>
+  <text x="242" y="299" class="pill-text">R</text>
+  <rect x="80" y="323" width="135" height="37" rx="9" class="pill"/>
+  <text x="97" y="347" class="pill-text">SQL</text>
+  <rect x="225" y="323" width="135" height="37" rx="9" class="pill"/>
+  <text x="242" y="347" class="pill-text">JavaScript</text>
+  <text x="80" y="395" class="muted">Writing code • Querying • Problem solving</text>
+
+  <!-- Card 2: Machine Learning -->
+  <rect x="420" y="190" width="360" height="235" rx="17" class="card"/>
+  <text x="445" y="222" class="number">02 / INTELLIGENCE</text>
+  <text x="445" y="253" class="card-title">Machine Learning &amp; AI</text>
+  <circle cx="735" cy="218" r="5" class="dot"/>
+  <rect x="445" y="275" width="145" height="37" rx="9" class="pill"/>
+  <text x="462" y="299" class="pill-text">Scikit-learn</text>
+  <rect x="600" y="275" width="145" height="37" rx="9" class="pill"/>
+  <text x="617" y="299" class="pill-text">PyTorch</text>
+  <rect x="445" y="323" width="145" height="37" rx="9" class="pill"/>
+  <text x="462" y="347" class="pill-text">TensorFlow*</text>
+  <text x="445" y="395" class="muted">Predictive modelling • NLP • Forecasting</text>
+  <text x="445" y="411" class="muted">*Basic familiarity</text>
+
+  <!-- Card 3: Visualization -->
+  <rect x="800" y="190" width="345" height="235" rx="17" class="card"/>
+  <text x="825" y="222" class="number">03 / VISUALIZE</text>
+  <text x="825" y="253" class="card-title">Data Visualization</text>
+  <circle cx="1100" cy="218" r="5" class="dot"/>
+  <rect x="825" y="275" width="135" height="37" rx="9" class="pill"/>
+  <text x="842" y="299" class="pill-text">Power BI</text>
+  <rect x="970" y="275" width="145" height="37" rx="9" class="pill"/>
+  <text x="987" y="299" class="pill-text">Tableau</text>
+  <rect x="825" y="323" width="135" height="37" rx="9" class="pill"/>
+  <text x="842" y="347" class="pill-text">Matplotlib</text>
+  <rect x="970" y="323" width="145" height="37" rx="9" class="pill"/>
+  <text x="987" y="347" class="pill-text">Seaborn</text>
+  <text x="825" y="395" class="muted">Dashboards • Charts • Data storytelling</text>
+
+  <!-- Card 4: Data Analysis -->
+  <rect x="55" y="445" width="345" height="205" rx="17" class="card"/>
+  <text x="80" y="477" class="number">04 / ANALYZE</text>
+  <text x="80" y="508" class="card-title">Data Analysis &amp; Tools</text>
+  <circle cx="355" cy="473" r="5" class="dot"/>
+  <rect x="80" y="530" width="125" height="37" rx="9" class="pill"/>
+  <text x="97" y="554" class="pill-text">Pandas</text>
+  <rect x="215" y="530" width="145" height="37" rx="9" class="pill"/>
+  <text x="232" y="554" class="pill-text">NumPy</text>
+  <rect x="80" y="578" width="125" height="37" rx="9" class="pill"/>
+  <text x="97" y="602" class="pill-text">Excel</text>
+  <rect x="215" y="578" width="145" height="37" rx="9" class="pill"/>
+  <text x="232" y="602" class="pill-text">Git</text>
+
+  <!-- Card 5: Web & Workflow -->
+  <rect x="420" y="445" width="360" height="205" rx="17" class="card"/>
+  <text x="445" y="477" class="number">05 / BUILD</text>
+  <text x="445" y="508" class="card-title">Web &amp; Development</text>
+  <circle cx="735" cy="473" r="5" class="dot"/>
+  <rect x="445" y="530" width="135" height="37" rx="9" class="pill"/>
+  <text x="462" y="554" class="pill-text">HTML</text>
+  <rect x="590" y="530" width="155" height="37" rx="9" class="pill"/>
+  <text x="607" y="554" class="pill-text">CSS</text>
+  <rect x="445" y="578" width="135" height="37" rx="9" class="pill"/>
+  <text x="462" y="602" class="pill-text">GitHub</text>
+  <rect x="590" y="578" width="155" height="37" rx="9" class="pill"/>
+  <text x="607" y="602" class="pill-text">Git</text>
+
+  <!-- Card 6: Foundations -->
+  <rect x="800" y="445" width="345" height="205" rx="17" class="card"/>
+  <text x="825" y="477" class="number">06 / FOUNDATIONS</text>
+  <text x="825" y="508" class="card-title">Mathematical Skills</text>
+  <circle cx="1100" cy="473" r="5" class="dot"/>
+  <rect x="825" y="530" width="135" height="37" rx="9" class="pill"/>
+  <text x="842" y="554" class="pill-text">Statistics</text>
+  <rect x="970" y="530" width="145" height="37" rx="9" class="pill"/>
+  <text x="987" y="554" class="pill-text">Probability</text>
+  <rect x="825" y="578" width="290" height="37" rx="9" class="pill"/>
+  <text x="842" y="602" class="pill-text">Predictive Modelling</text>
+
+  <!-- Footer -->
+  <rect x="55" y="680" width="1090" height="1" fill="#1C465A"/>
+  <circle cx="62" cy="718" r="4" fill="#00C9C8"/>
+  <text x="77" y="723" class="muted">DATA ANALYSIS</text>
+  <circle cx="230" cy="718" r="4" fill="#00C9C8"/>
+  <text x="245" y="723" class="muted">MACHINE LEARNING</text>
+  <circle cx="430" cy="718" r="4" fill="#00C9C8"/>
+  <text x="445" y="723" class="muted">DATA VISUALIZATION</text>
+  <text x="1145" y="723" text-anchor="end" class="number">NEENU / PORTFOLIO</text>
+</svg>
