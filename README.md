@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/PROFESSIONAL_EXPERIENCE-062B40?style=flat-square&labelColor=00C9C8"/>
 </p>
 
-<img src="projects.svg" alt="Featured Projects">
+<img src="proj.svg" alt="Featured Projects">
 
 
 <p>
