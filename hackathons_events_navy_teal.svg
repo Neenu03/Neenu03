@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<defs>
+<filter id="s" x="-15%" y="-15%" width="130%" height="140%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#06243A" flood-opacity=".10"/></filter>
+<style>
+.h{font:700 28px Arial,sans-serif;letter-spacing:1.4px;fill:#06243A}
+.d{font:700 13px Arial,sans-serif;letter-spacing:1px;fill:#006F78}
+.t{font:700 21px Arial,sans-serif;fill:#06243A}
+.o{font:600 14px Arial,sans-serif;fill:#008C96}
+.p{font:15px Arial,sans-serif;fill:#536575}
+</style></defs>
+<rect width="1200" height="560" fill="#fff"/>
+<text x="48" y="55" class="h">HACKATHONS &amp; EVENTS</text><rect x="48" y="72" width="170" height="4" rx="2" fill="#00C6C7"/><path d="M235 74H1152" stroke="#D8E3EA" stroke-width="2"/>
+<g filter="url(#s)"><rect x="48" y="112" width="536" height="190" rx="16" fill="#E8F8F8" stroke="#00AEB5" stroke-width="1.5"/><rect x="72" y="132" width="150" height="28" rx="14" fill="#C9F1F1"/><text x="147" y="151" text-anchor="middle" class="d">JAN 2026</text><rect x="420" y="132" width="140" height="28" rx="14" fill="#FFF3D6" stroke="#E5C36A"/><text x="490" y="151" text-anchor="middle" style="font:700 12px Arial;fill:#8A6410">★ 3RD PLACE</text><text x="74" y="202" class="t">Siemens Healthineers Hackathon</text><text x="74" y="232" class="o">Erlangen, Germany</text><text x="74" y="265" class="p">Voice and gesture control for humanoid robots in clinics.</text></g>
+<g filter="url(#s)"><rect x="616" y="112" width="536" height="190" rx="16" fill="#F2F6FA" stroke="#CFDCE6" stroke-width="1.5"/><rect x="640" y="132" width="112" height="28" rx="14" fill="#DDF4F5"/><text x="696" y="151" text-anchor="middle" class="d">JUN 2026</text><text x="642" y="202" class="t">TUM Science Hackathon 2026</text><text x="642" y="232" class="o">Technical University of Munich</text><text x="642" y="265" class="p">Scientific innovation and problem-solving.</text></g>
+<g filter="url(#s)"><rect x="48" y="330" width="536" height="190" rx="16" fill="#F2F6FA" stroke="#CFDCE6" stroke-width="1.5"/><rect x="72" y="350" width="112" height="28" rx="14" fill="#DDF4F5"/><text x="128" y="369" text-anchor="middle" class="d">DEC 2025</text><text x="74" y="420" class="t">IBM Z Day 2025 – AI and Data</text><text x="74" y="450" class="o">IBM</text><text x="74" y="483" class="p">Enterprise AI, analytics and hybrid cloud technologies.</text></g>
+<g filter="url(#s)"><rect x="616" y="330" width="536" height="190" rx="16" fill="#E8F8F8" stroke="#00AEB5" stroke-width="1.5"/><rect x="640" y="350" width="112" height="28" rx="14" fill="#C9F1F1"/><text x="696" y="369" text-anchor="middle" class="d">2026</text><text x="642" y="420" class="t">Professional Development</text><text x="642" y="450" class="o">Data Science &amp; Analytics</text><text x="642" y="483" class="p">Continuous learning in machine learning and forecasting.</text></g>
+</svg>
