@@ -54,34 +54,60 @@ Explore my work in data analysis, machine learning, forecasting and visualizatio
 
 <h2>HACKATHONS & EVENTS</h2>
 
-<table width="100%" cellspacing="10">
+<table width="100%">
 <tr>
-<td width="50%" bgcolor="#E1F7F5">
+<td width="50%" bgcolor="#E5F8F7">
+
+**JAN 2026**
+
+**Siemens Healthineers Hackathon**
+
+<sub>Siemens Healthineers · Erlangen, Germany</sub>
+
+Voice and gesture control for humanoid robots in clinics.
+
+</td>
+<td width="50%" bgcolor="#F0F5F9">
 
 **JUN 2026**
 
-### TUM Science Hackathon 2026
+**TUM Science Hackathon 2026**
 
-Technical University of Munich
+<sub>Technical University of Munich</sub>
 
 Scientific innovation and problem-solving.
-
-</td>
-<td width="50%" bgcolor="#F1F7FA">
-
-**DEC 2025**
-
-### IBM Z Day 2025
-
-IBM
-
-AI, Data Analytics and Hybrid Cloud.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" bgcolor="#F1F7FA">
+<td width="50%" bgcolor="#F0F5F9">
+
+**DEC 2025**
+
+**IBM Z Day 2025 – AI and Data**
+
+<sub>IBM</sub>
+
+Enterprise AI, analytics and hybrid cloud technologies.
+
+</td>
+<td width="50%" bgcolor="#E5F8F7">
+
+**2026**
+
+**Professional Development**
+
+<sub>Data Science & Analytics</sub>
+
+Continuous learning in machine learning and forecasting.
+
+</td>
+</tr>
+</table>
+
+
+
 
 **FEATURED PROJECT**
 
