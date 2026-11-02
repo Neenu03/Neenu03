@@ -14,6 +14,9 @@
 
 **Junior Data Scientist | Amer Sports | Forecasting | Supply Chain Analytics**
 
+<img src="./about.svg" width="100%" alt="About Me"/>
+
+
 <p>
   <img src="https://img.shields.io/badge/ABOUT-062B40?style=flat-square&labelColor=00C9C8"/>
 </p>
