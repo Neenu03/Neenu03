@@ -18,9 +18,6 @@
 
 <img src="./experience.svg" width="100%" alt="Professional Experience Timeline"/>
 
-<p>
-  <img src="https://img.shields.io/badge/PROFESSIONAL_EXPERIENCE-062B40?style=flat-square&labelColor=00C9C8"/>
-</p>
 
 <section id="projects">
   <img src="projects.svg"
@@ -29,11 +26,6 @@
 </section>
 
 
-<section id="skills">
-  <img src="skills.svg"
-       alt="Technical Skills and Tools"
-       style="width:100%; height:auto;">
-</section>
 
 <img src="./tech-stack.svg" width="100%" alt="My Tech Stack"/>
 
