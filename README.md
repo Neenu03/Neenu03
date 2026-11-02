@@ -29,7 +29,7 @@
 
 <img src="./tech-stack.svg" width="100%" alt="My Tech Stack"/>
 
-<h2>Certifications &amp; Learning</h2>
+
 <img src="./certifications.svg" width="100%" alt="Certifications and Professional Learning"/>
 
 Explore my work in data analysis, machine learning, forecasting and visualization.
